@@ -1,2 +1,2 @@
 # kaggle-house-prices
-kaggle project house pricing
+pip install pandas tensorflow numpy matplotlib scikit-learn
